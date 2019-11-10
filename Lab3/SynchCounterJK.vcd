@@ -1,0 +1,266 @@
+$date
+	Fri Nov  1 12:55:29 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module SynchCounterJK_TB $end
+$var wire 4 ! Q [3:0] $end
+$var reg 1 " clock $end
+$scope module SCJK $end
+$var wire 1 " clk $end
+$var wire 1 # w0 $end
+$var wire 1 $ w1 $end
+$var wire 4 % Q [3:0] $end
+$scope module F0 $end
+$var wire 1 & J $end
+$var wire 1 ' K $end
+$var wire 1 " clock $end
+$var reg 1 ( Q $end
+$upscope $end
+$scope module F1 $end
+$var wire 1 ) J $end
+$var wire 1 * K $end
+$var wire 1 " clock $end
+$var reg 1 + Q $end
+$upscope $end
+$scope module F2 $end
+$var wire 1 # J $end
+$var wire 1 # K $end
+$var wire 1 " clock $end
+$var reg 1 , Q $end
+$upscope $end
+$scope module F3 $end
+$var wire 1 $ J $end
+$var wire 1 $ K $end
+$var wire 1 " clock $end
+$var reg 1 - Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module SynchCounterJK_TB $end
+$scope module SCJK $end
+$scope module F0 $end
+$upscope $end
+$scope module F1 $end
+$upscope $end
+$scope module F2 $end
+$upscope $end
+$scope module F3 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module SynchCounterJK_TB $end
+$scope module SCJK $end
+$scope module F0 $end
+$upscope $end
+$scope module F1 $end
+$upscope $end
+$scope module F2 $end
+$upscope $end
+$scope module F3 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module SynchCounterJK_TB $end
+$scope module SCJK $end
+$scope module F0 $end
+$upscope $end
+$scope module F1 $end
+$upscope $end
+$scope module F2 $end
+$upscope $end
+$scope module F3 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0-
+0,
+0+
+0*
+0)
+0(
+1'
+1&
+b0 %
+0$
+0#
+0"
+b0 !
+$end
+#2000
+1*
+1)
+b1 !
+b1 %
+1(
+1"
+#4000
+0"
+#6000
+0*
+0)
+1+
+b10 !
+b10 %
+0(
+1"
+#8000
+0"
+#10000
+1#
+1*
+1)
+b11 !
+b11 %
+1(
+1"
+#12000
+0"
+#14000
+0#
+0*
+0)
+1,
+0+
+b100 !
+b100 %
+0(
+1"
+#16000
+0"
+#18000
+1*
+1)
+b101 !
+b101 %
+1(
+1"
+#20000
+0"
+#22000
+0*
+0)
+1+
+b110 !
+b110 %
+0(
+1"
+#24000
+0"
+#26000
+1$
+1#
+1*
+1)
+b111 !
+b111 %
+1(
+1"
+#28000
+0"
+#30000
+0$
+0#
+0*
+0)
+1-
+0,
+0+
+b1000 !
+b1000 %
+0(
+1"
+#32000
+0"
+#34000
+1*
+1)
+b1001 !
+b1001 %
+1(
+1"
+#36000
+0"
+#38000
+0*
+0)
+1+
+b1010 !
+b1010 %
+0(
+1"
+#40000
+0"
+#42000
+1#
+1*
+1)
+b1011 !
+b1011 %
+1(
+1"
+#44000
+0"
+#46000
+0#
+0*
+0)
+1,
+0+
+b1100 !
+b1100 %
+0(
+1"
+#48000
+0"
+#50000
+1*
+1)
+b1101 !
+b1101 %
+1(
+1"
+#52000
+0"
+#54000
+0*
+0)
+1+
+b1110 !
+b1110 %
+0(
+1"
+#56000
+0"
+#58000
+1$
+1#
+1*
+1)
+b1111 !
+b1111 %
+1(
+1"
+#60000
+0"
+#62000
+0$
+0#
+0*
+0)
+0-
+0,
+0+
+b0 !
+b0 %
+0(
+1"
+#64000
+0"
